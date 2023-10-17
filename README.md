@@ -1,14 +1,19 @@
 # PiXELL Transaction Report
 
+#Description
+
+This project involves modifying and troubleshooting the `pixel_transaction_data.py` Python script to process transaction data from a CSV file. The script reads transaction records, validates them, and reports the results.
+
+
 ## Author
 [Simran Kaur]
 
 
-## Project README
+### Assignment Description
 
-### Project Description
+This project is related to an assignment that aims to ensure the correctness and accuracy of software programs and the appropriate use of exception handling. As a student, the goal is to improve the quality of the "pixell_transaction_report" program.
 
-This project involves modifying and troubleshooting the `pixel_transaction_data.py` Python script to process transaction data from a CSV file. The script reads transaction records, validates them, and reports the results.
+
 
 ### Code Modifications
 
